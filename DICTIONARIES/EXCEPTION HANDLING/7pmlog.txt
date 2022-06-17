@@ -1,0 +1,17 @@
+CRITICAL:root:This is an critical msg
+ERROR:root:this is an error mdg
+WARNING:root:this is an wraning msg
+INFO:root:this is an info msg
+DEBUG:root:this is an debug msg
+INFO:root:sravanilogged in succesfully
+INFO:root:dividion completed successfully
+INFO:root:sravanilogged out successfully
+INFO:root:sravanilogged in succesfully
+INFO:root:dividion completed successfully
+INFO:root:sravanilogged out successfully
+INFO:root:sirilogged in succesfully
+INFO:root:dividion completed successfully
+INFO:root:sirilogged out successfully
+INFO:root:qoelogged in succesfully
+ERROR:root:user has given alphanumeric and zero values
+INFO:root:qoelogged out successfully
